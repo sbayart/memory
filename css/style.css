@@ -1,0 +1,10 @@
+.card {
+    width: 25%;
+    display: inline-block;
+    height: 300px;
+    border: solid 1px blue;
+    background-color: pink;
+    text-align: center;
+    font-weight: bold;
+    font-size: 4em;
+}
