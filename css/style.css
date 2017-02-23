@@ -26,6 +26,7 @@ section {
     width: 25%;
     display: inline-block;;
     height: 100px;
+    float: left;
     position: relative;
     border: solid 1px black;
     border-radius: 5px;
